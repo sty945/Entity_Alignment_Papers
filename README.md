@@ -284,6 +284,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **UMAEA**: **"Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment".**
 *Zhuo Chen, Lingbing Guo, Yin Fang, Yichi Zhang, Jiaoyan Chen, Jeff Z. Pan, Yangning Li, Huajun Chen, Wen Zhang.* (ISWC 2023) \[[paper](https://arxiv.org/abs/2307.16210)\]\[[code](https://github.com/zjukg/UMAEA)\]
 
+1. **IBMEA**: **"Exploring Variational Information Bottleneck for Multi-modal Entity Alignment".**
+*Taoyu Su, Jiawei Sheng, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.* (ACM MM 2024) \[[paper](https://arxiv.org/abs/2407.19302)\]\[[code](https://github.com/sutaoyu/IBMEA)\]
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
